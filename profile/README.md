@@ -11,4 +11,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Time+Series+Analysis+(TSA);Nonlinear+Dynamics+and+Chaos;Symbolic+Regression+(Scientific+Discovery);Signal+Processing+(Decompsition)&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
-Vortex Artifical Intelligence is a research group focusing on Time Series Analysis with Deep Learning methods, Signal Processing, Nonlearn Dynamics and Scientific Discovery. Our main goal is to introduce complex dynamics perspectives into deep learning to better understand and perceive time series and model real-world complex systems.
+Vortex AI is a research group focusing on Time Series Analysis with Deep Learning methods, Modern Signal Processing, Nonlearn Dynamics and Scientific Discovery. Our main goal is to introduce complex dynamics perspectives into deep learning to better understand and perceive time series.
